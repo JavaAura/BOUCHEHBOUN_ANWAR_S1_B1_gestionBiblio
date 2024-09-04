@@ -65,8 +65,9 @@ Classe Magazine (hérite de Document) :
 
 ​
 ---------------------------------------------------------------
-Utilisation
-Une fois l'application démarrée, vous serez accueilli par un menu interactif vous permettant de naviguer entre les différentes fonctionnalités. Suivez les instructions à l'écran pour ajouter, emprunter, retourner, afficher ou rechercher des documents dans la bibliothèque.
+Utilisation: 
+
+- Une fois l'application démarrée, vous serez accueilli par un menu interactif vous permettant de naviguer entre les différentes fonctionnalités. Suivez les instructions à l'écran pour ajouter, emprunter, retourner, afficher ou rechercher des documents dans la bibliothèque.
 ​
 ----------------------------------------------------------------------------
 Spécifications techniques :
